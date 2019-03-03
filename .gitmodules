@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/bingacademy/bingacademy.github.io.git
+	branch = master
