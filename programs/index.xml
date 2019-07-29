@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on Bing Academy</title>
+    <link>https://bingacademy.github.io/programs/</link>
+    <description>Recent content in Programs on Bing Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://bingacademy.github.io/programs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>College Planning</title>
+      <link>https://bingacademy.github.io/programs/college-planning/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://bingacademy.github.io/programs/college-planning/</guid>
+      <description>We take a holistic approach to guide students preparing for college applications.
+College Planning Services | 大学升学规划服务 We help students plan for various aspects of their high school years | 我们从以下申请要素，帮助孩子做量身定制的规划：
+ Courses (what and when to take) | 如何选课 Standardized tests (what and when to take) | 标准测验 Extracurricular activities (academic and non-academic work) | 课外活动（学术和非学术及志愿活动） Volunteer service opportunities | 提供义工服务 Summer activities selection and application | 暑期活动的选择和申请  A counselor will meet with the student once a month and communicate with parents/student whenever needed.</description>
+    </item>
+    
+    <item>
+      <title>College Application</title>
+      <link>https://bingacademy.github.io/programs/college-application/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://bingacademy.github.io/programs/college-application/</guid>
+      <description> We support students step-by-step through the college application process.
+College Application Services | 大学申请服务 We help students with college applications in the following ways | 我们通过以下服务帮助孩子申请理想的大学：
+ Selecting colleges | 大学挑选 Brainstorming essay topics | 作文题目辅导 Editing essays | 作文修改 Organizing application information | 信息整理 Filling out application forms | 申请表格填写 Training for interviews | 面试辅导  </description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>https://bingacademy.github.io/programs/classes/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://bingacademy.github.io/programs/classes/</guid>
+      <description>We offer instruction on various high school subjects.
+Classes  SAT I SAT II ACT AP Economics AP Chinese AP Computer Science AP Physics  Contact us for information about upcoming classes!</description>
+    </item>
+    
+    <item>
+      <title>Financial Aid Free Counseling</title>
+      <link>https://bingacademy.github.io/programs/financial-aid/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://bingacademy.github.io/programs/financial-aid/</guid>
+      <description>Financial Aid Free Counseling We provide free financial aid counseling for all families, contact us for more information! 我们为所有家庭提供免费的申请奖学金、助学金、财务规划，请联系我们获取更多信息！</description>
+    </item>
+    
+  </channel>
+</rss>
